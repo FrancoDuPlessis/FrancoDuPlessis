@@ -1,6 +1,6 @@
 # Franco du Plessis' Profile
 
-Mechanical Engineer tunring Developer.
+Mechanical Engineer turning Developer.
 
 - Python
 - C++
